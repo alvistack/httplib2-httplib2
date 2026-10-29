@@ -1,0 +1,5 @@
+python-httplib2 source: file-without-copyright-information
+python-httplib2 source: no-debian-changes
+python-httplib2 source: source-contains-prebuilt-windows-binary
+python-httplib2 source: source-is-missing
+python-httplib2 source: source-package-encodes-python-version
